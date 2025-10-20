@@ -1,0 +1,6 @@
+# OSINT links for [target]
+https://example.com/page1
+https://twitter.com/username
+https://linkedin.com/in/username
+https://shodan.io/host/1.2.3.4
+# Screenshots saved in /screenshots/
